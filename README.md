@@ -2,3 +2,10 @@
 
 [tamiresromano.github.io](https://tamiresromano.github.io)
 
+Esta página foi construída utilizando:
+
+- [GitHub Pages](https://pages.github.com/)
+- HTML5
+- Javascript
+- Bootstrap
+- CSS
